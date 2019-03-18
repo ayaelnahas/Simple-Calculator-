@@ -1,0 +1,16 @@
+{
+  "name": "simplecalculator",
+  "version": "1.0.0",
+  "description": "simple node calculator",
+  "main": "calc.js",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node calc.js"
+  },
+  "author": "\u001b[A\u001b[B\u001b[A\u001b[C simple node calculator",
+  "license": "ISC"
+}
